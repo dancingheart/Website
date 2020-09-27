@@ -15,8 +15,8 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
-  icon = "face"
-  icon_pack = "fab"
+  icon = ":smile"
+  icon_pack = "emoji"
   name = "Laughing"
   description = "69%"
   
@@ -32,12 +32,12 @@ subtitle = ""
   name = "Photography"
   description = "10%"
 
-# Uncomment to use emoji icons.
-# [[feature]]
-#  icon = ":smile:"
-#  icon_pack = "emoji"
-#  name = "Emojiness"
-#  description = "100%"  
+Uncomment to use emoji icons.
+[[feature]]
+  icon = ":smile:"
+  icon_pack = "emoji"
+  name = "Emojiness"
+  description = "100%"  
 
 # Uncomment to use custom SVG icons.
 # Place custom SVG icon in `assets/images/icon-pack/`, creating folders if necessary.
