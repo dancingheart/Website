@@ -17,8 +17,8 @@ subtitle = ""
 [[feature]]
   icon = "r-project"
   icon_pack = "fab"
-  name = "R"
-  description = "90%"
+  name = "Laughing"
+  description = "69%"
   
 [[feature]]
   icon = "chart-line"
