@@ -26,7 +26,7 @@ social:
     link: https://github.com/gcushen
 education:
   courses:
-    - course: BSc
+    - course: BSc in Applied Earth Sciences
       institution: Stanford University
       year: 1991
 email: ""
