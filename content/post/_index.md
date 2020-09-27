@@ -1,14 +1,16 @@
 ---
-title: Posts
-
-# View.
-#   1 = List
-#   2 = Compact
-#   3 = Card
+draft: true
 view: 2
-
-# Optional header image (relative to `static/media/` folder).
+summary: hi hi hi
 header:
   caption: ""
   image: ""
+title: Posts
+subtitle: hello
+date: 2020-09-27T22:09:57.221Z
+featured: true
+image:
+  preview_only: true
+  filename: dancingheart.jpg
 ---
+Hello
