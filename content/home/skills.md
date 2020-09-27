@@ -15,7 +15,7 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
-  icon = "heart"
+  icon = "face"
   icon_pack = "fab"
   name = "Laughing"
   description = "69%"
