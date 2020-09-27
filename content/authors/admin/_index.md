@@ -1,7 +1,6 @@
 ---
 organizations:
-  - name: Stanford University
-    url: ""
+  - name: Opening to Possibilities
 superuser: true
 authors:
   - admin
